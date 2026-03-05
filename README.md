@@ -4,6 +4,7 @@ A Direct rip of the original oculus home from 2016 (specifically version 1.20.0.
 # Supported Devices / Targeted Devices 
 
 **Oculus / Meta Quest**
+
 DK1 / DK2 (Depends)
 Oculus Rift Family - CV1-without touch controllers (sadly it may be lackluster) with-touch controllers (full control)| Rift S (Should be fine.)
 

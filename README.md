@@ -23,7 +23,7 @@ Gear VR (💀)
 
 Oculus Go (possibly? May have to look like a ps1 game tho.)
 
-Meta Quest 1 (sadly no support due to api stuff and how meta hates quest 1 users lmao)
+Meta Quest 1 (sadly might look like a ps2 game, but should look beteer than the go)
 
 Meta Quest 2 (Should work fine)
 

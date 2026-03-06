@@ -4,7 +4,7 @@
 
 First off, I am not affiliated with Meta or Reality Labs (originally Oculus VR / Oculus) and I do not condone the act of just, and I quote, "Stealing code for the act of piracy." I'm doing this for preservation's sake.
 
-> One more thing for devs who use this: I recommend installing the editor ~~5.4.3p4~~ or the **latest Unity 5 LTS release.** The SDK is simple to find, and plus recovering this stuff takes a hot min. Ok, enough yapping, just getting this out of the way. All the setup links are low, low, low, low, low, low, low, low.
+> One more thing for devs who use this: I recommend installing the editor ~~5.4.3p4 or the latest Unity 5 LTS release.~~ Use the editor its asking for, the project was able to be ported to a 2020 editor so it wouldnt crash and burn. The SDK is simple to find, and plus recovering this stuff takes a hot min. Ok, enough yapping, just getting this out of the way. All the setup links are low, low, low, low, low, low, low, low.
 
 ## About
 

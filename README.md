@@ -21,7 +21,7 @@ So I ripped the project, got Unity, recovered all the scripts, and fixed the sha
 
 
 #### How it works
-[Click to see a lil graph]()
+[Click to see a lil graph](https://github.com/korbeythekorb/Project-ocuhome2016/blob/main/hiw%20graph)
 
 </details>
 

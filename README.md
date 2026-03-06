@@ -57,8 +57,6 @@ This project is designed with PCVR in mind, so support should be excellent.
 
 </details>
 
-## 
-
 <details>
 <summary>How to setup for your system</summary>
 coming soon :)

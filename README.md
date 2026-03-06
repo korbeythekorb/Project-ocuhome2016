@@ -9,9 +9,7 @@
 <details> 
 
    
-<summary># How It Works</summary>
-/
-/
+<summary> ## How It Works</summary>
 How it works is actually very simple.
 
 ### How i made it.
@@ -19,9 +17,9 @@ I got unity hub and got the latest version of unity 5 lts, and asset ripped a ve
 
 
 
-<details> # Supported Devices / Targeted Devices </details>
+< # Supported Devices / Targeted Devices>
 
-## **Oculus / Meta Quest**
+< ## **Oculus / Meta Quest** >
 
 DK1 / DK2 (Depends)
 
@@ -43,6 +41,6 @@ Quest Pro (Should have great preformance)
 
 Meta Quest 3 Family (Should work fine + Upgrades in texure size)
 
-## **Steam VR Headsets**
+< ## **Steam VR Headsets** >
 
 **All steam vr headsets (ex. Valve Index, Vive, Vive Pro Eye, and yes, even your own diy headset) can run this app.** Also, its meant to be like pcvr so support should be great!

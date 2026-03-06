@@ -1,6 +1,6 @@
 # Project-ocuhome2016
 
-# ⚠️IMPORTANT INFO⚠️ 
+                                                                                                    # ⚠️IMPORTANT INFO⚠️ 
 ## First off, I am not affilliated with Meta or Reality Labs (originally Oculus VR / Oculus) and i do not condone the act of just, and i quote, "Stealing code for the act of piracy". Im doing this for preservation sakes. 
 
 > One more thing for devs who use this, i reccomend installing the editor 5.4.3p4 or the latest unity 5 LTS release. The SDK is simple to find, and plus recovering this stuff takes a hot min. Ok, enough yapping, just getting this out of the way.

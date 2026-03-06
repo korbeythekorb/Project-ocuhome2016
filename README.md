@@ -11,7 +11,7 @@
 
    
 <summary>How It Works</summary>
-## How it works is actually very simple.
+**How it works is actually very simple.**
 
 ### How i made it.
 I got unity hub and got the latest version of unity 5 lts, and asset ripped a version of oculus home, because its just a unity game. Unlike **Meta Horizen OS**, its not baked directly in. Which is why it was mostly seprate from [**Oculus Dash**](https://developers.meta.com/horizon/documentation/native/pc/dg-dash/), unlike Horizen OS where it IS the os (kinda) So I ripped the project, got unity, and then recovered all of the scripts and fixxed the shaders, and it allowed me to port it to most oculus, pcvr, pico, and even the dk1/2 (future me will prove me wrong)

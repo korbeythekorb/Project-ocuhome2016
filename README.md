@@ -19,6 +19,10 @@ I got Unity Hub and installed the latest version of Unity 5 LTS. I asset-ripped 
 
 So I ripped the project, got Unity, recovered all the scripts, and fixed the shaders. That allowed me to port it to most Oculus, PCVR, Pico, and even the DK1/2 (future me will prove me wrong).
 
+
+#### How it works
+[Click to see a lil graph]()
+
 </details>
 
 ## Supported Devices

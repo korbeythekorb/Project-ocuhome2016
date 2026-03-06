@@ -13,8 +13,6 @@ This is my direct port of the original Oculus Home from 2016 (specifically versi
 <details>
 <summary>How It Works</summary>
 
-### How It Works
-
 #### How I Made It
 
 I got Unity Hub and installed the latest version of Unity 5 LTS. I asset-ripped a version of Oculus Home (because it's just a Unity game). Unlike **Meta Horizon OS**, it's not baked directly in. That’s why it was mostly separate from [**Oculus Dash**](https://developers.meta.com/horizon/documentation/native/pc/dg-dash/), unlike Horizon OS where it *is* the OS (kinda).

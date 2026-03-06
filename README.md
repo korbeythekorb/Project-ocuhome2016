@@ -5,7 +5,7 @@
 
 > One more thing for devs who use this, i reccomend installing the editor 5.4.3p4 or the latest unity 5 LTS release. The SDK is simple to find, and plus recovering this stuff takes a hot min. Ok, enough yapping, just getting this out of the way.
 
-### My Direct port('s) of the original oculus home from 2016 (specifically version 1.20.0.466754). Its basically a unity game, so i just ripped it and restored all the scripts. Fully open source and can be ported to all quest devices (except for the quest 1) but the PCVR version can be used on any vr headset that can run Revive and/or Steam VR.
+### My Direct port('s) of the original oculus home from 2016 (specifically version 1.20.0.466754). Its basically a unity game, so i just ripped it and restored all the scripts. Fully open source and can be ported to all quest devices but the PCVR version can be used on any vr headset that can run Revive and/or Steam VR.
 
 # Supported Devices / Targeted Devices 
 

@@ -72,7 +72,7 @@ This project is designed with PCVR in mind, so support should be excellent.
  ## Android 
  
  1. Get the APK file for your system in the releases tab and make sure it has "Quest -----", not Rift - or Revive.
- 2. Make sure you have [Sidequest](SideQuestVR/SideQuest/releases/download/v0.10.42/SideQuest-Setup-0.10.42-x64-win.exe and a [Oculus Developer Account](https://developers.meta.com/horizon/documentation/native/android/mobile-device-setup/)
+ 2. Make sure you have [Sidequest](https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.42/SideQuest-Setup-0.10.42-x64-win.exe) and a [Oculus Developer Account](https://developers.meta.com/horizon/documentation/native/android/mobile-device-setup/)
  3. Sideload the Apk that you have onto your headset. It wont be in your standard "Apps" folder in horizen os, you have to go to Unknown Resources to open it. it will be called "Ocuhome 2016" or "Oculus Home" depending on your version.
  4. Continue with the setup steps and boom!
 </details>

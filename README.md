@@ -46,3 +46,4 @@ Meta Quest 3 Family (Should work fine + Upgrades in texure size)
 ## **Steam VR Headsets**
 
 **All steam vr headsets (ex. Valve Index, Vive, Vive Pro Eye, and yes, even your own diy headset) can run this app.** Also, its meant to be like pcvr so support should be great!
+<details>

@@ -1,51 +1,57 @@
-   # Project-ocuhome2016
-   # ⚠️IMPORTANT INFO⚠️ 
-## First off, I am not affilliated with Meta or Reality Labs (originally Oculus VR / Oculus) and i do not condone the act of just, and i quote, "Stealing code for the act of piracy". Im doing this for preservation sakes. 
+# Project-ocuhome2016
 
-> One more thing for devs who use this, i reccomend installing the editor ~~5.4.3p4~~ or the **latest unity 5 LTS release.** The SDK is simple to find, and plus recovering this stuff takes a hot min. Ok, enough yapping, just getting this out of the way. All the setup links are low, low, low, low, low, low, low, low.
+## ⚠️ IMPORTANT INFO ⚠️
 
-### My Direct port('s) of the original oculus home from 2016 (specifically version 1.20.0.466754). Its basically a unity game, so i just ripped it and restored all the scripts. Fully open source and can be ported to all quest devices but the PCVR version can be used on any vr headset that can run Revive and/or Steam VR.
+First off, I am not affiliated with Meta or Reality Labs (originally Oculus VR / Oculus) and I do not condone the act of just, and I quote, "Stealing code for the act of piracy." I'm doing this for preservation's sake.
 
-<details> 
+> One more thing for devs who use this: I recommend installing the editor ~~5.4.3p4~~ or the **latest Unity 5 LTS release.** The SDK is simple to find, and plus recovering this stuff takes a hot min. Ok, enough yapping, just getting this out of the way. All the setup links are low, low, low, low, low, low, low, low.
 
-   
-<summary> ## How It Works</summary>
-How it works is actually very simple.
+## Direct Ports of Oculus Home (2016)
 
-### How i made it.
-I got unity hub and got the latest version of unity 5 lts, and asset ripped a version of oculus home, because its just a unity game. Unlike **Meta Horizen OS**, its not baked directly in. Which is why it was mostly seprate from [**Oculus Dash**](https://developers.meta.com/horizon/documentation/native/pc/dg-dash/), unlike Horizen OS where it IS the os (kinda) So I ripped the project, got unity, and then recovered all of the scripts and fixxed the shaders, and it allowed me to port it to most oculus, pcvr, pico, and even the dk1/2 (future me will prove me wrong)
+This is my direct port of the original Oculus Home from 2016 (specifically version `1.20.0.466754`). It’s basically a Unity game, so I just ripped it and restored all the scripts. It’s fully open source and can be ported to all Quest devices. The PCVR version can be used on any VR headset that can run Revive and/or SteamVR.
+
+<details>
+<summary>How It Works</summary>
+
+### How It Works
+
+#### How I Made It
+
+I got Unity Hub and installed the latest version of Unity 5 LTS. I asset-ripped a version of Oculus Home (because it's just a Unity game). Unlike **Meta Horizon OS**, it's not baked directly in. That’s why it was mostly separate from [**Oculus Dash**](https://developers.meta.com/horizon/documentation/native/pc/dg-dash/), unlike Horizon OS where it *is* the OS (kinda).
+
+So I ripped the project, got Unity, recovered all the scripts, and fixed the shaders. That allowed me to port it to most Oculus, PCVR, Pico, and even the DK1/2 (future me will prove me wrong).
 
 </details>
 
+## Supported Devices
 
-< # Supported Devices / Targeted Devices>
+<details>
+<summary>Oculus / Meta Quest</summary>
 
- ## **Oculus / Meta Quest**
+- DK1 / DK2 (Depends)
+- Oculus Rift Family  
+  - CV1 without touch controllers (may be lackluster)  
+  - CV1 with touch controllers (full control)
+- Rift S (Should be fine)
+- Gear VR (not supported)
+- Oculus Go (possibly; may need to look like a PS1 game)
+- Meta Quest 1 (may resemble a PS2 game, but better than Go)
+- Meta Quest 2 (Should work fine)
+- Quest Pro (Should have great performance)
+- Meta Quest 3 Family (Should work fine; supports higher texture resolution)
 
-DK1 / DK2 (Depends)
+</details>
 
-Oculus Rift Family - CV1-without touch controllers (sadly it may be lackluster) with-touch controllers (full control)
+<details>
+<summary>SteamVR Headsets</summary>
 
-Rift S (Should be fine.)
+All SteamVR headsets are supported, including:
 
-## STANDALONE
+- Valve Index  
+- HTC Vive  
+- [**Oculus Link Devices**](https://www.meta.com/help/quest/140991407990979/?srsltid=AfmBOork6S-Rplz3UCZth5N3rBtkyAOza77iJfAfzbKAcfS_QaY_jyqH)  
+- Custom DIY headsets  
 
-Gear VR (💀)
+This project is designed with PCVR in mind, so support should be excellent.
 
-Oculus Go (possibly? May have to look like a ps1 game tho.)
-
-Meta Quest 1 (sadly might look like a ps2 game, but should look beteer than the go)
-
-Meta Quest 2 (Should work fine)
-
-Quest Pro (Should have great preformance)
-
-Meta Quest 3 Family (Should work fine + Upgrades in texure size)
-
-</ # Supported Devices / Targeted Devices>
-
-< ## **Steam VR Headsets** >
-
-**All steam vr headsets (ex. Valve Index, Vive, Vive Pro Eye, and yes, even your own diy headset) can run this app.** Also, its meant to be like pcvr so support should be great!
-
-< ## **Steam VR Headsets** >
+</details>

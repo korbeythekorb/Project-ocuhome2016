@@ -6,7 +6,7 @@ First off, I am not affiliated with Meta or Reality Labs (originally Oculus VR /
 
 > One more thing for devs who use this: I recommend installing the editor ~~5.4.3p4~~ or the **latest Unity 5 LTS release.** The SDK is simple to find, and plus recovering this stuff takes a hot min. Ok, enough yapping, just getting this out of the way. All the setup links are low, low, low, low, low, low, low, low.
 
-## Direct Ports of Oculus Home (2016)
+## About
 
 This is my direct port of the original Oculus Home from 2016 (specifically version `1.20.0.466754`). It’s basically a Unity game, so I just ripped it and restored all the scripts. It’s fully open source and can be ported to all Quest devices. The PCVR version can be used on any VR headset that can run Revive and/or SteamVR.
 

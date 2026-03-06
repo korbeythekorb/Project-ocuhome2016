@@ -9,7 +9,7 @@
 <details> 
 
    
-<summary># How It Works</summary>
+<summary>How It Works</summary>
 
 
 How it works is actually very simple.

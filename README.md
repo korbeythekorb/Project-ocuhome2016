@@ -51,7 +51,7 @@ All SteamVR headsets are supported, including:
 - HTC Vive  
 - [**Oculus Link Devices**](https://www.meta.com/help/quest/140991407990979/?srsltid=AfmBOork6S-Rplz3UCZth5N3rBtkyAOza77iJfAfzbKAcfS_QaY_jyqH)  
 - Custom DIY headsets
-- [Headsets Running Revive]([LibreVR/Revive?tab=readme-ov-file](https://github.com/LibreVR/Revive?tab=readme-ov-file))
+- [Headsets Running Revive](https://github.com/LibreVR/Revive)
 
 This project is designed with PCVR in mind, so support should be excellent.
 

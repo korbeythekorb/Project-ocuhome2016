@@ -17,7 +17,7 @@ This is my direct port of the original Oculus Home from 2016 (specifically versi
 
 I got Unity Hub and installed the latest version of Unity 5 LTS. I asset-ripped a version of Oculus Home (because it's just a Unity game). Unlike **Meta Horizon OS**, it's not baked directly in. That’s why it was mostly separate from [**Oculus Dash**](https://developers.meta.com/horizon/documentation/native/pc/dg-dash/), unlike Horizon OS where it *is* the OS (kinda).
 
-So I ripped the project, got Unity, recovered all the scripts, and fixed the shaders. That allowed me to port it to most Oculus, PCVR, Pico, and even the DK1/2 (future me will prove me wrong).
+So I ripped the project, got Unity, recovered all the scripts, and fixed the shaders. That allowed me to port it to most Oculus, PCVR, Pico, and even the DK1/2 headsets (future me will prove me wrong).
 
 </details>
 
